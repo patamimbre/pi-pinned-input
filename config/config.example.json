@@ -1,0 +1,9 @@
+{
+  "debug": false,
+  "enabled": true,
+  "mouse": true,
+  "mouseWheelScrollRows": 3,
+  "keyboardScrollRows": 10,
+  "minimumHistoryRows": 3,
+  "lowerPaneMaxPercent": 60
+}
