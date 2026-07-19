@@ -8,6 +8,7 @@
 
 `pi-pinned-input` is a Pi extension that pins the prompt editor, status widgets, and footer controls to the bottom of the terminal while session history scrolls in a bounded viewport above them.
 - **npm**: https://www.npmjs.com/package/pi-pinned-input
+- **Pi package gallery**: https://pi.dev/packages
 - **GitHub**: https://github.com/patamimbre/pi-pinned-input
 
 Fork of [MasuRii/pi-sticky-input](https://github.com/MasuRii/pi-sticky-input) with a bounded custom prompt editor, OpenCode-style prompt history navigation, and a simplified configuration.
