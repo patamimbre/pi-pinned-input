@@ -12,6 +12,8 @@
 
 Fork of [MasuRii/pi-sticky-input](https://github.com/MasuRii/pi-sticky-input) with a bounded custom prompt editor, OpenCode-style prompt history navigation, and a simplified configuration.
 
+![pi-pinned-input demo](https://raw.githubusercontent.com/patamimbre/pi-pinned-input/main/docs/demo.gif)
+
 </div>
 
 ## Capabilities
